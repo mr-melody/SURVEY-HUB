@@ -32,13 +32,8 @@ More screenshots
 ## Deployment
 For deployment, open `form/settings.py` file and uncomment code from line 131 to 159.
 
-## License
-Distributed under the [MIT](https://github.com/kimlimjustin/google-form-clone/blob/master/LICENSE) License. See [`LICENSE`](https://github.com/kimlimjustin/google-form-clone/blob/master/LICENSE) for more information.
 
 ## Contact
-- Justin Maximillian Kimlim - [kimlimjustin@gmail.com](mailto:kimlimjustin@gmail.com)
-- Project link: https://github.com/kimlimjustin/google-form-clone
+- BHARATH.S- [bharath8112002@gmail.com](mailto:bharath8112002@gmail.com)
+- Project link: https://github.com/mr-melody/proj-ggle-form
 
-## Love my work?
-
-<a href='https://ko-fi.com/kimlimjustin' target='_blank'><img height='35' style='border:0px;height:34px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
