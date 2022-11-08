@@ -21,7 +21,7 @@ More screenshots
 
 ## Getting started:
 - Clone this repository or fork it
-    - To clone this repository type git clone `https://github.com/kimlimjustin/google-form-clone.git` on your command line
+    - To clone this repository type git clone `https://github.com/mr-melody/proj-ggle-form.git` on your command line
     - To fork this repository, click fork button of this repository then type git clone `https://github.com/<your username>/google-form-clone.git`
 - Install all the dependencies of this project by typing `pip install -r requirements.txt`
 - Migrate the database by typing `python manage.py migrate` on the command line
