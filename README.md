@@ -15,10 +15,10 @@ More screenshots
 - Note that this Google Forms CLONE don't support image uploading due to [Heroku policy](https://help.heroku.com/K1PPS2WM/why-are-my-file-uploads-missing-deleted)
 
 </details>
-##Built using
 
- Python with Django framework and Jinja templating language
- Vanilla Javascript
+##Built using
+- Python with Django framework and Jinja templating language
+- Vanilla Javascript
 
 ## Getting started:
 - Clone this repository or fork it
