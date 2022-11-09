@@ -16,8 +16,9 @@ More screenshots
 
 </details>
 ##Built using
-- Python with Django framework and Jinja templating language
-- Vanilla Javascript
+
+ Python with Django framework and Jinja templating language
+ Vanilla Javascript
 
 ## Getting started:
 - Clone this repository or fork it
