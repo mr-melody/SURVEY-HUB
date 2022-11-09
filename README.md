@@ -16,7 +16,7 @@ More screenshots
 
 </details>
 
-#Built using
+#Built Using:
 - Python with Django framework and Jinja templating language
 - Vanilla Javascript
 
